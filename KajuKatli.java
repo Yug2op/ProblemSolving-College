@@ -1,4 +1,4 @@
-public class Pattern5 {
+public class KajuKatli {
     public static void main(String[] args) {
 
         // sidha triangle
