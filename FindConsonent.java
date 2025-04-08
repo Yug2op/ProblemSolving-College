@@ -18,9 +18,7 @@ public class FindConsonent{
             }
         }
 
-        System.out.print("consonentCount:");
-        System.out.println(consonentCount);
-        System.out.print("VovelCount:");
-        System.out.println(VovelCount);
+        System.out.print("consonentCount:"+ consonentCount);
+        System.out.print("VovelCount:" +VovelCount);
     }
 }
